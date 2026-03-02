@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewLab</string>
+    <string name="item_title">Sample Item %1$d</string>
+    <string name="item_subtitle">This is item number %1$d in the list</string>
+</resources>

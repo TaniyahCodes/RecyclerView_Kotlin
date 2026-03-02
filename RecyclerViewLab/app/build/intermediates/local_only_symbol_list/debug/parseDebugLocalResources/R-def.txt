@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color item_background
+color item_border
+color md_theme_light_onPrimary
+color md_theme_light_onSurface
+color md_theme_light_primary
+color md_theme_light_surface
+id itemRecyclerView
+id itemSubtitle
+id itemTitle
+layout activity_main
+layout item_row
+string app_name
+string item_subtitle
+string item_title
+style Theme.RecyclerViewLab

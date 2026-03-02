@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\moses\\.gradle\\daemon\\8.13\\com.example.recyclerviewlab.app-mergeDebugResources-3:\\layout\\item_row.xml",
+        "source": "C:\\Users\\moses\\.gradle\\daemon\\8.13\\com.example.recyclerviewlab.app-main-6:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\moses\\.gradle\\daemon\\8.13\\com.example.recyclerviewlab.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\moses\\.gradle\\daemon\\8.13\\com.example.recyclerviewlab.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.recyclerviewlab.app-mergeDebugResources-3:/layout/item_row.xml",
+        "source": "com.example.recyclerviewlab.app-main-6:/layout/item_row.xml"
+    }
+]

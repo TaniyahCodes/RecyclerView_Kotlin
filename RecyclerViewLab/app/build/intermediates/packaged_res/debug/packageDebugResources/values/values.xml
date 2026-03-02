@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="item_background">#FFFFFFFF</color>
+    <color name="item_border">#FFE1E1E1</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <string name="app_name">RecyclerViewLab</string>
+    <string name="item_subtitle">This is item number %1$d in the list</string>
+    <string name="item_title">Sample Item %1$d</string>
+    <style name="Theme.RecyclerViewLab" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/md_theme_light_primary</item>
+    </style>
+</resources>
