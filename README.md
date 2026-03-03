@@ -1,6 +1,8 @@
 **Android RecyclerView Kotlin Lab**
+
 This repository contains a hands-on implementation of a dynamic list using RecyclerView in Android. This project demonstrates the transition from basic ListView to the more efficient and flexible RecyclerView architecture.
 The application simulates a Task Manager where data is managed dynamically using the ViewHolder pattern to optimize memory usage and scrolling performance.
+
 **Key Features**
 1. Custom Adapter: Implementation of RecyclerView.Adapter to bridge data and the UI.
 
@@ -9,14 +11,16 @@ The application simulates a Task Manager where data is managed dynamically using
 3. Dynamic Layouts: Use of LinearLayoutManager to arrange items vertically.
 
 4. Kotlin-Based: Built using modern Kotlin syntax and Android Jetpack components.
+
 **Technical Stack**
-Language: Kotlin +Java
+1. Language: Kotlin +Java
 
-Framework: Android SDK
+2. Framework: Android SDK
 
-UI Components: RecyclerView, CardView, Material Design 3
+3. UI Components: RecyclerView, CardView, Material Design 3
 
-Environment: Android Studio
+4. Environment: Android Studio
+
 **Architecture**
 The project follows the standard RecyclerView architecture:
 
